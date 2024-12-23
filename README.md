@@ -49,3 +49,9 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # ReState
+
+![WhatsApp Image 2024-12-23 at 19 09 26_cb471436](https://github.com/user-attachments/assets/b8b6a7d0-f2c7-4500-9126-9d3732514ccc)
+![WhatsApp Image 2024-12-23 at 19 09 26_694279ce](https://github.com/user-attachments/assets/088d865c-3300-4108-a80c-2bffe5aa932b)
+![WhatsApp Image 2024-12-23 at 19 09 27_fd3ae56f](https://github.com/user-attachments/assets/dc3c1d18-a182-47eb-be11-fde6aee9a1d0)
+![WhatsApp Image 2024-12-23 at 19 09 27_868d4743](https://github.com/user-attachments/assets/f4c39cc8-7021-4702-b420-d4fd862ba415)
+![WhatsApp Image 2024-12-23 at 19 09 27_0a8c2bb5](https://github.com/user-attachments/assets/4d43a595-97ce-4e10-9f85-678629369892)
